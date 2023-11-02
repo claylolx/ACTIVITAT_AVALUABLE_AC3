@@ -1,0 +1,20 @@
+body {
+    font-size: 45px;
+}
+
+.container_linea {
+    display: flex;
+    flex-direction: row;
+}
+
+.tablero_rojo { 
+    padding: 20px;
+    color: white;
+    background-color: red;
+}
+
+.tablero_gris { 
+    padding: 20px;
+    color: white;
+    background-color: gray;
+}
